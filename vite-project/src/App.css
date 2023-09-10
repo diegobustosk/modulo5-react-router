@@ -1,0 +1,26 @@
+*{
+  text-align: center;
+}
+header {
+  width: 100vw;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #dc3546;
+  color: white;
+}
+
+.header-links {
+  display: flex;
+}
+
+.header-links h5 {
+  margin-left: 15px;
+
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
